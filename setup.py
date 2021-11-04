@@ -10,10 +10,10 @@ classifiers = [
  
 setup(
   name='dietlinearalgebra',
-  version='0.0.2',
+  version='0.0.4',
   description='Fast and lightweight linear algebra library',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='',  
+  url='https://github.com/solzilberman/diet_linear_algebra',  
   author='Sol Zilberman',
   author_email='sol.zilberman@gmail.com',
   license='MIT', 
